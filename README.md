@@ -105,6 +105,3 @@ Você pode adicionar **screenshots ou mockups** do sistema, por exemplo:
 **Perfil**
 ![Perfil](./imagens/edit.png)
 
----
-
-Quer que eu faça isso?
